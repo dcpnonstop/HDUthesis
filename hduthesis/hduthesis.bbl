@@ -1,0 +1,135 @@
+\begin{thebibliography}{10}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{kanamori1998}
+\bibauthor{KANAMORI H}\@. \bibtitle{Shaking without quaking}\bibmark{[J]}\@.
+  \bibjournal{Science}\@, \bibyear{1998}\@,
+  \bibvolume{279}\bibnumber{(5359)}\thinspace{}\textnormal{:
+  }\bibpages{2063\thinspace{}\textnormal{--}\thinspace{}2064}\@.
+
+\bibitem{yinwang2013}
+\bibauthor{王垠}\@. \bibtitle{谈Linux, Windows 和 Mac}\bibmark{[EB/OL]}\@.
+  \bibyear{2013}\@.
+  \newline\url{http://www.yinwang.org/blog-cn/2013/03/07/linux-windows-mac}\@.
+
+\bibitem{lixiaodong1999}
+\bibauthor{李晓东\@, 张庆红\@, 叶瑾琳}\@.
+  \bibtitle{气候学研究的若干理论问题}\bibmark{[J]}\@.
+  \bibjournal{北京大学学报: 自然科学版}\@, \bibyear{1999}\@,
+  \bibvolume{35}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{101\thinspace{}\textnormal{--}\thinspace{}106}\@.
+
+\bibitem{christine1998}
+\bibauthor{CHRISTINE M}\@. \bibtitle{Plant physiology: plant biology in the
+  Genome Era}\bibmark{[J/OL]}\@. \bibjournal{Science}\@, \bibyear{1998}\@,
+  \bibvolume{281}\thinspace{}\textnormal{:
+  }\bibpages{331\thinspace{}\textnormal{--}\thinspace{}332}
+  \bibcitedate{[1998-09-23]}\@.
+  \newline\url{http://www.sciencemag.org/cgi/collection/anatmorp}\@.
+
+\bibitem{zh-book-1}
+\bibauthor{余敏\@, 刘华}\@.
+  \bibbooktitle{出版集团研究}\bibmark{[M]}\@.
+  \bibyear{2001}\thinspace{}\textnormal{:
+  }\bibpages{179\thinspace{}\textnormal{--}\thinspace{}193}\@.
+
+\bibitem{anwen1988b}
+\bibauthor{昂温 G\@, 昂温 P~S}\@.
+  \bibbooktitle{世界历史丛书\thinspace{}\textnormal{:
+  }美国独立战争}\bibmark{[M/OL]}\@. \bibtranslator{陈生铮\@, 译}\@.
+  \bibaddress{北京}\thinspace{}\textnormal{:
+  }\bibpublisher{中国书籍出版社}\@, \bibyear{1988}
+  \bibcitedate{[2013-08-30]}\@. \newline\url{http://www.google.com/}\@.
+
+\bibitem{lamport1994latex}
+\bibauthor{LAMPORT L}\@. \bibbooktitle{\LaTeX{} A Document Preparation System:
+  User's Guide and Reference Manual}\bibmark{[M]}\@.
+  \bibedition{\mbox{2nd~ed}}\@. \bibaddress{Reading,
+  Massachusetts}\thinspace{}\textnormal{: }\bibpublisher{Addison-Wesley}\@,
+  \bibyear{1994}\@.
+
+\bibitem{takeuti1973}
+\bibauthor{TAKEUTI G\@, ZARING W~M}\@. \bibbooktitle{Graduate Texts in
+  Mathematics\@, Vol~8\thinspace{}\textnormal{: }Axiomatic Set
+  Theory}\bibmark{[M]}\@. \bibaddress{Berlin}\thinspace{}\textnormal{:
+  }\bibpublisher{Springer-Verlag}\@, \bibyear{1973}\@.
+
+\bibitem{nonlinear1996}
+\bibauthor{钟文发}\@.
+  \bibtitle{非线性规划在可燃毒物配置中的应用}\bibmark{[C]}
+  //\thinspace{}\bibeditor{赵玮}\@.
+  \bibbooktitle{运筹学的理论与应用：中国运筹学会第五届大会论文集}\@.
+  \bibaddress{西安}\thinspace{}\textnormal{:
+  }\bibpublisher{西安电子科技大学出版社}\@,
+  \bibyear{1996}\thinspace{}\textnormal{:
+  }\bibpages{468\thinspace{}\textnormal{--}\thinspace{}471}\@.
+
+\bibitem{a2-1}
+\bibeditor{{中国力学学会}}\@.
+  \bibbooktitle{第3届全国实验流体力学学术会议论文集}\bibmark{[C]}\@.
+  \bibyear{1990}\@.
+
+\bibitem{a2-2}
+\bibeditor{ROSENTHALL E~M}\@. \bibbooktitle{Proceedings of the Fifth Canadian
+  Mathematical Congress, University of Montreal, 1961}\bibmark{[C]}\@.
+  \bibaddress{Toronto}\thinspace{}\textnormal{: }\bibpublisher{University of
+  Toronto Press}\@, \bibyear{1963}\@.
+
+\bibitem{aczel1998}
+\bibauthor{ACZEL P}\@. \bibtitle{On relating type theories and set
+  theories}\bibmark{[C]} //\thinspace{}\bibeditor{ALTENKIRCH T\@, NARASCHEWSKI
+  W\@, REUS B}\@. \bibbooktitle{Lecture Notes in Computer Science\@,
+  Vol~1657\thinspace{}\textnormal{: }Types `98, the proceedings of the 1998
+  workshop on Types for Proofs and Programs}\@. \bibaddress{Kloster
+  Irsee}\thinspace{}\textnormal{: }\bibpublisher{Springer}\@,
+  \bibyear{1998}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}18}\@.
+
+\bibitem{a4-1}
+\bibauthor{张志祥}\@.
+  \bibtitle{间断动力系统的随机扰动及其在守恒律方程中的应用}\bibmark{[D]}\@.
+  \bibaddress{南京}\thinspace{}\textnormal{:
+  }\bibschool{南京大学数学学院}\@, \bibyear{1998}\@.
+
+\bibitem{ipad}
+\bibauthor{{Apple Inc}}\@. \bibbooktitle{iPad User Manual}\bibmark{[K]}\@.
+  \bibaddress{Cupertino}\thinspace{}\textnormal{: }\bibpublisher{Apple Inc}\@,
+  \bibyear{2008}\@.
+
+\bibitem{renminribao}
+\bibeditor{{人民日报编辑部}}\@. \bibtitle{人民日报}\bibmark{[N]}\@.
+  \bibyear{2011}\@, \bibvolume{22892}\thinspace{}\textnormal{--}\thinspace{}\@.
+  \bibaddress{北京}\thinspace{}\textnormal{:
+  }\bibpublisher{人民日报出版社}\@,
+  \bibyear{2011}\thinspace{}\textnormal{--}\thinspace{}\@.
+
+\bibitem{dubash2010}
+\bibauthor{DUBASH M}\@. \bibtitle{{Moore's Law is dead, says Gordon
+  Moore}}\bibmark{[EB/OL]}\@. \bibpublisher{Techworld}\@, \bibyear{2010}
+  \bibmodifydate{(2010/4/13)}\@.
+  \newline\url{www.techworld.com/news/operating-systems/moores-law-is-dead-says-gordon-moore-3576581/}\@.
+
+\end{thebibliography}

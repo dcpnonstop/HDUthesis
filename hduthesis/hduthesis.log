@@ -1,0 +1,381 @@
+This is LuaTeX, Version beta-0.70.1-2011080216 (rev 4277)  (format=lualatex 2018.5.4)  19 OCT 2018 20:35
+**hduthesis.tex
+(E:/研二文档/大论文框架/hduthesis/hduthesis.tex
+LaTeX2e <2011/06/27>
+LuaTeX adaptation of babel <v3.8l-luatex-1.4> and hyphenation patterns for load
+ed.
+(E:/研二文档/大论文框架/hduthesis/hduthesis.cls
+Document Class: hduthesis 2015/08/23 hduthesis document class. Created: 2014.09
+.15 by Sky and Hamburger, Modified by Kwen String at 2016.04.08, Introduced to 
+HDU and then modified by Mingying Huang in 07.07.2018
+(D:/paper/CTEX/MiKTeX/tex/latex/ctex/ctexbook.cls
+Document Class: ctexbook 2011/03/11 v1.02c ctexbook document class
+(D:/paper/CTEX/MiKTeX/tex/latex/ctex/opt/ctex-common-opts.def)
+(D:/paper/CTEX/MiKTeX/tex/latex/ctex/opt/ctex-caption-opts.def
+\c@CTEX@sectiondepth=\count79
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/ctex/opt/ctex-class-opts.def)
+(D:/paper/CTEX/CTeX/tex/latex/ctex/cfg/ctexopts.cfg)
+(D:/paper/CTEX/MiKTeX/tex/latex/ctex/def/ctex-loadclass.def
+(D:/paper/CTEX/MiKTeX/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(D:/paper/CTEX/MiKTeX/tex/latex/base/bk12.clo
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+))
+(D:/paper/CTEX/MiKTeX/tex/latex/ctex/def/ctex-common.def
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/expl3.sty
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3names.sty
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3bootstrap.sty
+Package: l3bootstrap 2011/12/29 v3110 L3 Experimental bootstrap code
+
+(D:/paper/CTEX/MiKTeX/tex/generic/oberdiek/luatex.sty
+Package: luatex 2010/03/09 v0.4 LuaTeX basic definition package (HO)
+
+(D:/paper/CTEX/MiKTeX/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(D:/paper/CTEX/MiKTeX/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX detected.
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/misc/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count89
+)
+\LuT@AllocAttribute=\count277
+\LuT@AllocCatcodeTable=\count278
+\CatcodeTableStack=\count279
+\CatcodeTableIniTeX=\catcodetable1
+\CatcodeTableString=\catcodetable3
+\CatcodeTableOther=\catcodetable5
+\CatcodeTableLaTeX=\catcodetable7
+
+(D:/paper/CTEX/MiKTeX/tex/generic/oberdiek/luatex-loader.sty
+Package: luatex-loader 2010/03/09 v0.4 Lua module loader (HO)
+
+(D:/paper/CTEX/MiKTeX/scripts/oberdiek/oberdiek.luatex.lua)))
+(D:/paper/CTEX/MiKTeX/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+(D:/paper/CTEX/MiKTeX/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+(D:/paper/CTEX/MiKTeX/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks14
+))
+Package: l3names 2011/12/30 v3113 L3 Experimental namespace for primitives
+)
+Package: expl3 2012/02/26 v3471 L3 Experimental code bundle wrapper
+
+(D:/paper/CTEX/MiKTeX/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(D:/paper/CTEX/MiKTeX/tex/latex/00miktex/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+(D:/paper/CTEX/MiKTeX/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count280
+))
+(D:/paper/CTEX/MiKTeX/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(D:/paper/CTEX/MiKTeX/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/00miktex/graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3basics.sty
+Package: l3basics 2012/02/26 v3460 L3 Experimental basic definitions
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3expan.sty
+Package: l3expan 2012/02/26 v3460 L3 Experimental argument expansion
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3tl.sty
+Package: l3tl 2012/02/26 v3460 L3 Experimental token lists
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3seq.sty
+Package: l3seq 2012/01/09 v3158 L3 Experimental sequences and stacks
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3int.sty
+Package: l3int 2012/02/26 v3460 L3 Experimental integers
+\c_max_int=\count281
+\l_tmpa_int=\count282
+\l_tmpb_int=\count283
+\l_tmpc_int=\count284
+\g_tmpa_int=\count285
+\g_tmpb_int=\count286
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3quark.sty
+Package: l3quark 2012/02/12 v3384 L3 Experimental quarks
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3prg.sty
+Package: l3prg 2012/02/26 v3464 L3 Experimental control structures
+\g_prg_map_int=\count287
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3clist.sty
+Package: l3clist 2012/02/26 v3460 L3 Experimental comma separated lists
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3token.sty
+Package: l3token 2012/02/26 v3460 L3 Experimental token manipulation
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3prop.sty
+Package: l3prop 2012/02/26 v3460 L3 Experimental property lists
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3msg.sty
+Package: l3msg 2012/02/26 v3470 L3 Experimental messages
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3file.sty
+Package: l3file 2012/02/26 v3464 L3 Experimental file and I/O operations
+\l_iow_stream_int=\count288
+\l_iow_line_length_int=\count289
+\l_iow_target_length_int=\count290
+\l_iow_current_line_int=\count291
+\l_iow_current_word_int=\count292
+\l_iow_current_indentation_int=\count293
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3skip.sty
+Package: l3skip 2012/02/26 v3460 L3 Experimental dimensions and skips
+\l_tmpa_dim=\dimen256
+\l_tmpb_dim=\dimen257
+\l_tmpc_dim=\dimen258
+\g_tmpa_dim=\dimen259
+\g_tmpb_dim=\dimen260
+\l_tmpa_skip=\skip256
+\l_tmpb_skip=\skip257
+\l_tmpc_skip=\skip258
+\g_tmpa_skip=\skip259
+\g_tmpb_skip=\skip260
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3keys.sty
+Package: l3keys 2011/12/22 v3086 L3 Experimental key-value interfaces
+\g_keyval_level_int=\count294
+\l_keys_choice_int=\count295
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3fp.sty
+Package: l3fp 2012/02/06 v3315 L3 Experimental floating-point operations
+\c_one_hundred_million=\count296
+\c_five_hundred_million=\count297
+\c_one_thousand_million=\count298
+\c_fp_pi_by_four_decimal_int=\count299
+\c_fp_pi_by_four_extended_int=\count300
+\c_fp_pi_decimal_int=\count301
+\c_fp_pi_extended_int=\count302
+\c_fp_two_pi_decimal_int=\count303
+\c_fp_two_pi_extended_int=\count304
+\l_fp_count_int=\count305
+\l_fp_div_offset_int=\count306
+\l_fp_exp_integer_int=\count307
+\l_fp_exp_decimal_int=\count308
+\l_fp_exp_extended_int=\count309
+\l_fp_exp_exponent_int=\count310
+\l_fp_input_a_sign_int=\count311
+\l_fp_input_a_integer_int=\count312
+\l_fp_input_a_decimal_int=\count313
+\l_fp_input_a_exponent_int=\count314
+\l_fp_input_b_sign_int=\count315
+\l_fp_input_b_integer_int=\count316
+\l_fp_input_b_decimal_int=\count317
+\l_fp_input_b_exponent_int=\count318
+\l_fp_input_a_extended_int=\count319
+\l_fp_input_b_extended_int=\count320
+\l_fp_mul_a_i_int=\count321
+\l_fp_mul_a_ii_int=\count322
+\l_fp_mul_a_iii_int=\count323
+\l_fp_mul_a_iv_int=\count324
+\l_fp_mul_a_v_int=\count325
+\l_fp_mul_a_vi_int=\count326
+\l_fp_mul_b_i_int=\count327
+\l_fp_mul_b_ii_int=\count328
+\l_fp_mul_b_iii_int=\count329
+\l_fp_mul_b_iv_int=\count330
+\l_fp_mul_b_v_int=\count331
+\l_fp_mul_b_vi_int=\count332
+\l_fp_mul_output_int=\count333
+\l_fp_output_sign_int=\count334
+\l_fp_output_integer_int=\count335
+\l_fp_output_decimal_int=\count336
+\l_fp_output_exponent_int=\count337
+\l_fp_output_extended_int=\count338
+\l_fp_round_position_int=\count339
+\l_fp_round_target_int=\count340
+\l_fp_split_sign_int=\count341
+\l_fp_internal_int=\count342
+\l_fp_trig_octant_int=\count343
+\l_fp_trig_sign_int=\count344
+\l_fp_trig_decimal_int=\count345
+\l_fp_trig_extended_int=\count346
+\l_fp_internal_dim=\dimen261
+\l_fp_internal_skip=\skip261
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3box.sty
+Package: l3box 2012/02/18 v3432 L3 Experimental boxes
+\l_tmpb_box=\box256
+\l_box_top_dim=\dimen262
+\l_box_bottom_dim=\dimen263
+\l_box_left_dim=\dimen264
+\l_box_right_dim=\dimen265
+\l_box_top_new_dim=\dimen266
+\l_box_bottom_new_dim=\dimen267
+\l_box_left_new_dim=\dimen268
+\l_box_right_new_dim=\dimen269
+\l_box_internal_box=\box257
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3coffins.sty
+Package: l3coffins 2012/02/26 v3460 L3 Experimental coffin code layer
+\l_coffin_internal_box=\box258
+\l_coffin_internal_dim=\dimen270
+\l_coffin_offset_x_dim=\dimen271
+\l_coffin_offset_y_dim=\dimen272
+\l_coffin_x_dim=\dimen273
+\l_coffin_y_dim=\dimen274
+\l_coffin_x_prime_dim=\dimen275
+\l_coffin_y_prime_dim=\dimen276
+\l_coffin_Depth_dim=\dimen277
+\l_coffin_Height_dim=\dimen278
+\l_coffin_TotalHeight_dim=\dimen279
+\l_coffin_Width_dim=\dimen280
+\c_empty_coffin=\box259
+\l_coffin_aligned_coffin=\box260
+\l_coffin_aligned_internal_coffin=\box261
+\l_coffin_bounding_shift_dim=\dimen281
+\l_coffin_left_corner_dim=\dimen282
+\l_coffin_right_corner_dim=\dimen283
+\l_coffin_bottom_corner_dim=\dimen284
+\l_coffin_top_corner_dim=\dimen285
+\l_coffin_scaled_total_height_dim=\dimen286
+\l_coffin_scaled_width_dim=\dimen287
+\l_coffin_display_coffin=\box262
+\l_coffin_display_coord_coffin=\box263
+\l_coffin_display_pole_coffin=\box264
+\l_coffin_display_offset_dim=\dimen288
+\l_coffin_display_x_dim=\dimen289
+\l_coffin_display_y_dim=\dimen290
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3color.sty
+Package: l3color 2011/09/07 v2776 L3 Experimental colour support
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/l3kernel/l3luatex.sty
+Package: l3luatex 2012/02/09 v3355 L3 Experimental LuaTeX-specific functions
+\g_cctab_allocate_int=\count347
+\g_cctab_stack_int=\count348
+\c_code_cctab=\catcodetable9
+))
+(D:/paper/CTEX/MiKTeX/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+\etb@tempcnta=\count349
+)
+(D:/paper/CTEX/MiKTeX/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/base/fix-cm.sty
+Package: fix-cm 2006/09/13 v1.1m fixes to LaTeX
+
+(D:/paper/CTEX/MiKTeX/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+))
+(D:/paper/CTEX/MiKTeX/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip262
+\f@ncyO@elh=\skip263
+\f@ncyO@erh=\skip264
+\f@ncyO@olh=\skip265
+\f@ncyO@orh=\skip266
+\f@ncyO@elf=\skip267
+\f@ncyO@erf=\skip268
+\f@ncyO@olf=\skip269
+\f@ncyO@orf=\skip270
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/ctex/engine/ctex-cjk-engine.def
+(D:/paper/CTEX/MiKTeX/tex/latex/cjk/CJK.sty
+Package: CJK 2008/12/29 4.8.2
+
+(D:/paper/CTEX/MiKTeX/tex/latex/cjk/mule/MULEenc.sty
+Package: MULEenc 2008/12/29 4.8.2
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/cjk/CJK.enc
+File: CJK.enc 2008/12/29 4.8.2
+)
+LaTeX Info: Redefining \selectfont on input line 756.
+\CJK@indent=\box265
+)
+(D:/paper/CTEX/CTeX/tex/latex/CJKpunct/CJKpunct.sty
+Package: CJKpunct 2010/02/21 4.8.2-2
+\CJKpunct@cnta=\count350
+\CJKpunct@cntb=\count351
+\CJKpunct@cntc=\count352
+\CJKpunct@cntd=\count353
+\CJKpunct@cnte=\count354
+
+(D:/paper/CTEX/CTeX/tex/latex/CJKpunct/CJKpunct.spa))
+(D:/paper/CTEX/MiKTeX/tex/latex/ctex/engine/ctex-cjk-common.def
+(D:/paper/CTEX/CTeX/tex/latex/CJK/CJKfntef.sty
+Package: CJKfntef 2008/12/29 4.8.2
+
+(D:/paper/CTEX/MiKTeX/tex/latex/cjk/CJKulem.sty
+Package: CJKulem 2008/12/29 4.8.2
+
+(D:/paper/CTEX/MiKTeX/tex/latex/ulem/ulem.sty
+\UL@box=\box266
+\UL@hyphenbox=\box267
+\UL@skip=\skip271
+\UL@hook=\toks16
+\UL@height=\dimen291
+\UL@pe=\count355
+\UL@pixel=\dimen292
+\ULC@box=\box268
+Package: ulem 2011/03/18
+\ULdepth=\dimen293
+)
+\UL@lastkern=\dimen294
+\CJK@skip=\skip272
+)
+\CJK@fntefSkip=\skip273
+\CJK@nest=\count356
+\CJK@fntefDimen=\dimen295
+\CJK@underdotBox=\box269
+\CJK@ULbox=\box270
+\CJK@underanyskip=\dimen296
+)
+\ccwd=\dimen297
+)
+(D:/paper/CTEX/MiKTeX/tex/latex/ctex/fontset/ctex-cjk-winfonts.def
+(D:/paper/CTEX/MiKTeX/tex/generic/zhmetrics/zhwinfonts.tex
+(D:/paper/CTEX/MiKTeX/tex/generic/oberdiek/ifpdf.sty
+Package ifpdf Info: The package is already loaded, stopped on input line 64.
+){D:/paper/CTEX/UserData/pdftex/config/pdftex.map{D:/paper/CTEX/CTeX/fonts/sfd/
+Unicode.sfd
+!LuaTeX error (file D:/paper/CTEX/CTeX/fonts/sfd/Unicode.sfd): invalid range:
+_0xFFFF
+
+ ==> Fatal error occurred, no output PDF file produced!

@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2018/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: hduthesis.aux
+The style file: gbt7714-2005.bst
+A level-1 auxiliary file: contents/abstract_chinese.aux
+A level-1 auxiliary file: contents/abstract_english.aux
+A level-1 auxiliary file: contents/intro.aux
+A level-1 auxiliary file: contents/whyla.aux
+A level-1 auxiliary file: contents/elem.aux
+A level-1 auxiliary file: contents/sum.aux
+A level-1 auxiliary file: contents/appendixA.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: references/test.bib
+Warning--Require citedate: yinwang2013
+Warning--Require citedate: dubash2010
+You've used 16 entries,
+            3107 wiz_defined-function locations,
+            826 strings with 8138 characters,
+and the built_in function-call counts, 17070 in all, are:
+= -- 1696
+> -- 44
+< -- 110
++ -- 1327
+- -- 129
+* -- 656
+:= -- 1861
+add.period$ -- 0
+call.type$ -- 16
+change.case$ -- 52
+chr.to.int$ -- 3
+cite$ -- 18
+duplicate$ -- 2204
+empty$ -- 769
+format.name$ -- 104
+if$ -- 4496
+int.to.chr$ -- 0
+int.to.str$ -- 16
+missing$ -- 0
+newline$ -- 75
+num.names$ -- 20
+pop$ -- 230
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 238
+stack$ -- 0
+substring$ -- 1822
+swap$ -- 671
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 241
+width$ -- 18
+write$ -- 251
+(There were 2 warnings)

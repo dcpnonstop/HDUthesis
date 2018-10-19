@@ -1,0 +1,44 @@
+\BOOKMARK [0][]{anchor_cover.0}{封面}{}% 1
+\BOOKMARK [0][]{anchor_cntitle.0}{中文题名页}{}% 2
+\BOOKMARK [0][]{anchor_entitle.0}{英文题名页}{}% 3
+\BOOKMARK [0][]{anchor_os.0}{原创性声明}{}% 4
+\BOOKMARK [0][]{section*.1}{摘要}{}% 5
+\BOOKMARK [0][]{section*.2}{Abstract}{}% 6
+\BOOKMARK [0][]{chapter.1}{第1章 绪论}{}% 7
+\BOOKMARK [1][]{section.1.1}{1.1 研究背景与意义}{chapter.1}% 8
+\BOOKMARK [1][]{section.1.2}{1.2 国内外研究现状}{chapter.1}% 9
+\BOOKMARK [1][]{section.1.3}{1.3 论文研究内容}{chapter.1}% 10
+\BOOKMARK [1][]{section.1.4}{1.4 论文组织结构}{chapter.1}% 11
+\BOOKMARK [0][]{chapter.2}{第2章 分布式一致性算法的介绍}{}% 12
+\BOOKMARK [1][]{section.2.1}{2.1 图论知识}{chapter.2}% 13
+\BOOKMARK [2][]{subsection.2.1.1}{2.1.1 矩阵理论}{section.2.1}% 14
+\BOOKMARK [1][]{section.2.2}{2.2 分布式一致性算法及其安全性}{chapter.2}% 15
+\BOOKMARK [1][]{section.2.3}{2.3 MSR家族算法的相关研究}{chapter.2}% 16
+\BOOKMARK [0][]{chapter.3}{第3章 基于移动辅助节点的MSR一致性算法}{}% 17
+\BOOKMARK [1][]{section.3.1}{3.1 引言}{chapter.3}% 18
+\BOOKMARK [1][]{section.3.2}{3.2 问题描述}{chapter.3}% 19
+\BOOKMARK [2][]{subsection.3.2.1}{3.2.1 网络模型}{section.3.2}% 20
+\BOOKMARK [2][]{subsection.3.2.2}{3.2.2 一致性算法介绍}{section.3.2}% 21
+\BOOKMARK [2][]{subsection.3.2.3}{3.2.3 目标问题}{section.3.2}% 22
+\BOOKMARK [1][]{section.3.3}{3.3 移动辅助下的MSR算法设计及分析}{chapter.3}% 23
+\BOOKMARK [2][]{subsection.3.3.1}{3.3.1 移动模型}{section.3.3}% 24
+\BOOKMARK [2][]{subsection.3.3.2}{3.3.2 一致性协议}{section.3.3}% 25
+\BOOKMARK [2][]{subsection.3.3.3}{3.3.3 实现一致性分析}{section.3.3}% 26
+\BOOKMARK [1][]{section.3.4}{3.4 仿真实验与结果分析}{chapter.3}% 27
+\BOOKMARK [1][]{section.3.5}{3.5 本章小结}{chapter.3}% 28
+\BOOKMARK [0][]{chapter.4}{第4章 基于最大一致性的弹性时钟同步算法}{}% 29
+\BOOKMARK [1][]{section.4.1}{4.1 引言}{chapter.4}% 30
+\BOOKMARK [1][]{section.4.2}{4.2 问题描述}{chapter.4}% 31
+\BOOKMARK [2][]{subsection.4.2.1}{4.2.1 时钟模型}{section.4.2}% 32
+\BOOKMARK [2][]{subsection.4.2.2}{4.2.2 网络模型与攻击介绍}{section.4.2}% 33
+\BOOKMARK [2][]{subsection.4.2.3}{4.2.3 问题设置}{section.4.2}% 34
+\BOOKMARK [1][]{section.4.3}{4.3 分布式时钟同步算法的设计}{chapter.4}% 35
+\BOOKMARK [2][]{subsection.4.3.1}{4.3.1 相对斜率估计}{section.4.3}% 36
+\BOOKMARK [2][]{subsection.4.3.2}{4.3.2 最大一致性下的弹性斜率补偿}{section.4.3}% 37
+\BOOKMARK [2][]{subsection.4.3.3}{4.3.3 最大一致性下的弹性偏差补偿}{section.4.3}% 38
+\BOOKMARK [1][]{section.4.4}{4.4 仿真实验与结果分析}{chapter.4}% 39
+\BOOKMARK [1][]{section.4.5}{4.5 本章小结}{chapter.4}% 40
+\BOOKMARK [0][]{chapter.5}{第5章 总结和展望}{}% 41
+\BOOKMARK [1][]{section.5.1}{5.1 相关工作总结}{chapter.5}% 42
+\BOOKMARK [1][]{section.5.2}{5.2 研究工作展望}{chapter.5}% 43
+\BOOKMARK [0][]{section*.10}{参考文献}{}% 44
