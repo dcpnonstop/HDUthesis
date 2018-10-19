@@ -61,7 +61,7 @@
 
 ----
 # 杭州电子科技大学硕士论文模板
-[杭州电子科技大学硕士论文latex论文模板](https://github.com/dcpnonstop/HUDthesis)
+[杭州电子科技大学硕士论文latex论文模板](https://github.com/dcpnonstop/HDUthesis)
 
 ---
 mac下环境配置
